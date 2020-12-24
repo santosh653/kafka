@@ -10,6 +10,9 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
+arch:
+ - amd64
+ - ppc64le
 arch: amd64
 os: linux
 dist: bionic
